@@ -1,0 +1,4 @@
+ //baseline code int add(inta , int b)
+{
+	int c= a+b;
+
